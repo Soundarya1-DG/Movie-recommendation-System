@@ -43,7 +43,7 @@ movie-recommender-system/
 
 ## 📦 Required Files for GitHub
 
-Ensure your GitHub repo includes:
+Ensure your file includes:
 
 - ✅ `app.py`
 - ✅ `auth.py`
